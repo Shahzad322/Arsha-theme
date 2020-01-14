@@ -1,0 +1,79 @@
+
+
+#arsha{
+	font-size: 30px;
+	margin-left: 80px;
+	color: #50C0E9;
+	
+}
+
+#ptwocarousel{
+	margin-top: 40px;
+	text-align: center !important;
+	color: #50C0E9 !important;
+	font-size: 20px !important;
+}
+
+#ulist li a{
+	color: black;
+
+}
+#ulist li a:hover{
+	color:#50C0E9 !important;
+	font-size: 30px !important;
+	
+}
+#pone{
+	font-size: 40px !important;
+	color:#50C0E9 !important;
+}
+
+#ptwo{
+	margin-top: 40px;
+	text-align: center !important;
+}
+
+#pcarousel{
+
+	text-align: center !important;
+	font-size: 20px;
+	color:#50C0E9 !important;
+}
+
+#hone{
+	color:#50C0E9 !important;
+	font-size: 30px !important;
+}
+
+
+#hone a{
+	text-decoration: none;
+	color:#50C0E9 !important;
+	font-size: 30px !important;
+}
+
+#ione{
+margin-top: 40px;
+font-size: 40px;
+color:#50C0E9 !important;
+}
+
+#pheader{
+background-color: #F9F9F9;
+padding-top: 30px;
+}
+
+#pbody{
+
+background-color: #F9F9F9;
+}
+#pfoter{
+background-color:#50C0E9;
+}
+
+#carousel{
+padding-top: 30px;
+}
+
+
+
